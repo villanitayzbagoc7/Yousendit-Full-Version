@@ -241,4 +241,4 @@ This repository serves as the official landing page for YouSendIt. The software 
 **Get the most recent version of YouSendIt today!**
 
 ---
-**Last updated:** 2026-10-16 12:49:57 UTC
+**Last updated:** 2026-10-16 17:03:33 UTC
